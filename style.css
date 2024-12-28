@@ -89,13 +89,13 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(imagens/background001.jpg);
-    background-position: right center;
+    background-image: url(https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6ae1811c0c7dc1c2fb1b6639ddc706db~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=20360&refresh_token=ce1f74b418486313d345e90427e1793c&x-expires=1735563600&x-signature=rxMkNXkThuVSjku4%2F9Q2oCeuoms%3D&shp=a5d48078&shcp=81f88b70);
+    background-position: top center;
 }
 
 section#img02 {
-    background-image: url(imagens/background002.jpg);
-    background-position: right center;
+    background-image: url(https://scontent.fmcz1-1.fna.fbcdn.net/v/t39.30808-6/462224933_122182386746200799_3218466674908711055_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFEffuR74Ol2gctU6gOmO8AIupEJeodXaoi6kQl6h1dqnjLH6LQ4PruGScXf8ajjcYBYqyTAYlTkHFw4SFDwEBy&_nc_ohc=FN5dsjtLMB4Q7kNvgGH7zQZ&_nc_zt=23&_nc_ht=scontent.fmcz1-1.fna&_nc_gid=A6BjoVoK5K37eHcHXTndWaC&oh=00_AYCX3evpoi_VI6yJJo8Fokzni-UobpBw1BU6bTXO7Jhicw&oe=6775F136);
+    background-position: top center;
 }
 
 footer {
